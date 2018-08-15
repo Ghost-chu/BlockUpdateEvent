@@ -1,0 +1,5 @@
+name: BlockUpdateEvent
+main: moe.kira.event.block.update.Initializer
+version: 1
+load: STARTUP
+author: [Sotr, Ghost_chu]
